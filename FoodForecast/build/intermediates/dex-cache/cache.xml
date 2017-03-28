@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_1955f44b8e887d0eef9dd1ee04041fdc78782312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\67b9f94577d67e57be0ca85b403808012c02645c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b95757650c0077b9f42c2be9b07f2a21bfbf8c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\41cf04dbbbc839f9c548a33384eb5a49639c6ba3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71e5f385e6a2cb48c28e7cd2b8a18742d1954f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\c9d955a9664bcfacbdb0c1ac17be2905da667b72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d5b68b60e351e93bd11a7f50e640d58be909a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_f6763dc7c9ddd151b0caf978c005a3b8988bb77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\3ef8c482b2a1ece25eac848532d3e7b15f3b8ae8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c5bb8620e93e3a1fd1b03806d46ef77062b5b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_85b2623c19e83288dd4087a2398f4f2609f3d85b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\59c671211fd20bd6692c6e1ace5f449396ffab0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d132db9e93abc54f7336070d1449357fce182fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\a8f42cd35e89ae2b5131825316de1c995648ea64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec465cf9bc4a295ce087b2ba584a40593e0cd1ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3208e81adc2180eeec1d8c99eae258790c7e98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\65e84ed0273353654a1a453ab16e20f3cb7d6c57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5983153527a39cd2682efa95d379f415b35377fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\d648dce182a138cfe30f57f1c352aed845b730ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf89c363eb60f5ac3065d4d6943995899b13527f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_3819ff20e3bf1124373b7d8a08c774b5791d2d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\36e92e2d12c1e455f693379d33d6825ba0ef641a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38fc614c0af33a5ede3008ac68e85c55baab5828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_1d1e81b0cd9b01cfe8f3de1b0e6a6aba6347b405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_29ca8f40b4e2a2080373d2c37e6cfc2864bc7ba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_1dc541a699287e1a7c31cd2b7a6e9f4b97fa61b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\63b4a990e3200c8c3d41be56bebc27ba1dd6844b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60469bde614acca03bb55a9a9534463062db69b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_66f5e9484c5d384c50f9c12133cb5a1c3ee70108\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\53ba2f8c2d669e16e35f07689c351f39be686ed5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75b4c1a33884f1fe7960f1cc20c6e2830a181639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\8042dbad22485db6533149fec9bec7b00780b486\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e6f978aadc818376b28abb95eb203a3338f3ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\.android\build-cache\544fb052e45c6d1e2a07ba55115ebd06202100ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3e0b8d9279bcfeebde15088807a82bde77443ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="340fd076f30fd2c82f560cbc2b5011ca157af4fd">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_756287a7d5ab778010d23bd4a1917cf03d72aa60\classes.dex" />
+    </item>
+
+</items>
