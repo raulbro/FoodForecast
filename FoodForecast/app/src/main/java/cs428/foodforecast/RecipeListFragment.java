@@ -9,7 +9,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
+import Models.Singleton;
+import Models.ViewEnum;
 import cs428.foodforecast.dummy.DummyContent;
 import cs428.foodforecast.dummy.DummyContent.DummyItem;
 
@@ -28,6 +31,13 @@ public class RecipeListFragment extends Fragment {
     // TODO: Customize parameters
     private int mColumnCount = 1;
     private OnListFragmentInteractionListener mListener;
+    private View.OnClickListener changeFiltersListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            Singleton._SINGLETON.setView(ViewEnum.FILTERS);
+            mListener.onListFragmentInteraction(new DummyItem("1","d","dd"));
+        }
+    };
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -61,16 +71,20 @@ public class RecipeListFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_recipe_list, container, false);
 
         // Set the adapter
-        if (view instanceof RecyclerView) {
+        RecyclerView recyclerView = (RecyclerView) view.findViewById(R.id.recipe_search_list);
+        Button filter = (Button)view.findViewById(R.id.recipe_search_filter);
+
+
+        filter.setOnClickListener(changeFiltersListener);
             Context context = view.getContext();
-            RecyclerView recyclerView = (RecyclerView) view;
+
             if (mColumnCount <= 1) {
                 recyclerView.setLayoutManager(new LinearLayoutManager(context));
             } else {
                 recyclerView.setLayoutManager(new GridLayoutManager(context, mColumnCount));
             }
             recyclerView.setAdapter(new MyRecipeRecyclerViewAdapter(DummyContent.ITEMS, mListener));
-        }
+
         return view;
     }
 

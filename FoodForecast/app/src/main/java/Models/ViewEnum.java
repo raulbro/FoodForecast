@@ -5,5 +5,5 @@ package Models;
  */
 
 public enum ViewEnum {
-    CALENDAR, SEARCH_RECIPE, RECIPE, SHOP_CART
+    CALENDAR, SEARCH_RECIPE, RECIPE, FILTERS, SHOP_CART
 }
