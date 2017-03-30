@@ -192,21 +192,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f5c03b9080ac5eaf5ec4404ea1416a6a77ab7e7">
+        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_756287a7d5ab778010d23bd4a1917cf03d72aa60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\wolfa\.android\build-cache\544fb052e45c6d1e2a07ba55115ebd06202100ed\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
         <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3e0b8d9279bcfeebde15088807a82bde77443ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="340fd076f30fd2c82f560cbc2b5011ca157af4fd">
-        <dex dex="C:\Users\wolfa\StudioProjects\FoodForecast\FoodForecast\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_756287a7d5ab778010d23bd4a1917cf03d72aa60\classes.dex" />
     </item>
 
 </items>

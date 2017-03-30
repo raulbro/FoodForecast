@@ -7,8 +7,9 @@ import java.util.List;
 
 import APIClasses.APIRecipe;
 import APIPresenterListeners.RecipePresenterListener;
+import cs428.foodforecast.dummy.DummyContent;
 
-public class RecipeActivity extends AppCompatActivity implements RecipePresenterListener {
+public class RecipeActivity extends AppCompatActivity implements RecipePresenterListener, RecipeListFragment.OnListFragmentInteractionListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,6 +24,11 @@ public class RecipeActivity extends AppCompatActivity implements RecipePresenter
 
     @Override
     public void addRecipeListener() {
+
+    }
+
+    @Override
+    public void onListFragmentInteraction(DummyContent.DummyItem item) {
 
     }
 }
