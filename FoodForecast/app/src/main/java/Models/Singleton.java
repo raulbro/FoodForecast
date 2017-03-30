@@ -13,6 +13,15 @@ public class Singleton {
     private User currentUser;
     private List<APIRecipe.APIRecipeModel> recipesList;
 
+    private ViewEnum view = ViewEnum.SEARCH_RECIPE;
+
+    public ViewEnum getView() {
+        return view;
+    }
+
+    public void setView(ViewEnum view) {
+        this.view = view;
+    }
 
     public User getCurrentUser() {
         return currentUser;

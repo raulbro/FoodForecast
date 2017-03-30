@@ -10,11 +10,36 @@
 
 
         <fragment
-            android:id="@+id/fragment"
+            android:id="@+id/search_fragment"
             android:name="cs428.foodforecast.RecipeListFragment"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="16dp" />
+
+        <fragment
+            android:id="@+id/calendar_fragment"
+            android:name="cs428.foodforecast.CalendarFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <fragment
+            android:id="@+id/nav_shopping_cart_fragment"
+            android:name="cs428.foodforecast.ShopListFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+        <fragment
+            android:id="@+id/recipe_details_fragment"
+            android:name="cs428.foodforecast.RecipeDetailsFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
 
 </android.support.constraint.ConstraintLayout>
