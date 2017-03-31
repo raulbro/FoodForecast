@@ -41,5 +41,13 @@
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="16dp" />
 
+        <fragment
+            android:id="@+id/recipe_filter_fragment"
+            android:name="cs428.foodforecast.FiltersFragment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="16dp" />
+
 
 </android.support.constraint.ConstraintLayout>

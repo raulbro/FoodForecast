@@ -23,7 +23,7 @@ import cs428.foodforecast.dummy.DummyContent;
 
 public class BaseActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener ,CalendarFragment.OnFragmentInteractionListener,
-        ShopListFragment.OnListFragmentInteractionListener,RecipeDetailsFragment.OnFragmentInteractionListener, RecipeListFragment.OnListFragmentInteractionListener{
+        ShopListFragment.OnListFragmentInteractionListener,FiltersFragment.OnFragmentInteractionListener,RecipeDetailsFragment.OnFragmentInteractionListener, RecipeListFragment.OnListFragmentInteractionListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -52,10 +52,13 @@ public class BaseActivity extends AppCompatActivity
         android.support.v4.app.Fragment calendarFragment = fm.findFragmentById(R.id.calendar_fragment);
         Fragment shopCartFragment = fm.findFragmentById(R.id.nav_shopping_cart_fragment);
         Fragment recipeDetails = fm.findFragmentById(R.id.recipe_details_fragment);
+        Fragment filterFragment = fm.findFragmentById(R.id.recipe_filter_fragment);
+
         ft.hide(searchFrag);
         ft.hide(calendarFragment);
         ft.hide(shopCartFragment);
         ft.hide(recipeDetails);
+        ft.hide(filterFragment);
         switch (Singleton._SINGLETON.getView()){
             case SEARCH_RECIPE:
                 ft.show(searchFrag);
@@ -71,6 +74,10 @@ public class BaseActivity extends AppCompatActivity
 
             case RECIPE:
                 ft.show(recipeDetails);
+            break;
+
+            case FILTERS:
+                ft.show(filterFragment);
             break;
         }
 
@@ -143,7 +150,7 @@ public class BaseActivity extends AppCompatActivity
 
         @Override
         public void onFragmentInteraction(Uri uri) {
-
+            refreshViewState();
         }
 
 }
